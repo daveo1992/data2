@@ -23,3 +23,13 @@ HTTP/1.1 200 OK
 < Server: Microsoft-IIS/10.0
 < X-Powered-By: ASP.NET
 < Date: Mon, 16 Sep 2019 09:28:41 
+
+question 3 
+web page 
+http-easy.html
+curl https://www.jmarshall.com/easy/http/ -o "http-easy.html"
+there is no images
+
+question 8
+ctl shif i
+400 + requests 
